@@ -1,4 +1,4 @@
-# LEDs-Musc-and-Pis
+# LEDs synced to music with a Raspberry Pi
 A short program that uses Processing to allow LEDs to dance to music with a Raspberry Pi.
 <br><br>
 This project was based of an original Processing project that was meant to work with the Arduino Uno. With a few changes, it now works with the Raspberry Pi.
