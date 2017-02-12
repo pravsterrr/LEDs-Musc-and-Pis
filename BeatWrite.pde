@@ -33,7 +33,7 @@ void setup() {
   
   minim = new Minim(this);
   
-  song = minim.loadFile("data2.mp3", 2048);
+  song = minim.loadFile("data.mp3", 2048);
   song.play();
   // a beat detection object that is FREQ_ENERGY mode that 
   // expects buffers the length of song's buffer size
